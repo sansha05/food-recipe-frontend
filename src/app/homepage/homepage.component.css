@@ -22,6 +22,22 @@
     display:inline-block
 }
 .jumbotron{
-    background-color: rgb(244, 211, 230);
+    opacity: 0.7;
+    color: black;
 }
 
+
+#homepage {
+    background-image: url("https://images.pexels.com/photos/326279/pexels-photo-326279.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    background-size: cover;
+    background-repeat: no-repeat;
+    position:absolute;
+    height:100%;
+    width:100%;
+}
+
+#move-down {
+    padding-top: 5em;
+    padding-left: 2em;
+
+}
